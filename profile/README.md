@@ -18,5 +18,24 @@
 - Choose your favourite Repository on the Organizatiob,copy the repository link address and clone the repository and you are ready to launch.
 
 
-## Repositories list
--
+## Repositories Address📥
+- https://github.com/orgs/EmptineX/repositories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Brought to you by EmptineX INC

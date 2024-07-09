@@ -1,5 +1,7 @@
 # What Is EmptineX | Who are EmptineX❓
-- We are a Organization thatt is created to make empty repositories's With some purposes behind them, Mostly in codings and others ETC.
+- We are a Organization that is created to make empty repositories's With some purposes behind them, Mostly in codings and others ETC.
+
+- Call us an Template Library because why not.
 
 # What do we do❓
 - We make repositories that are Empty except A File left behind with empty text inside. As EmptineX Refers to Emptiness Itself we only make Empty repositories with only 1 file inside. Mostly they are considered Templates or so.

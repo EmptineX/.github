@@ -1,15 +1,15 @@
-             Â© Copyright 2024 ORGNAMEÂ©
+              © Copyright 2024 EmtineX ©
             Universal Copyright File 2021
                      (_"LICENSE"_)
 
 UCF managing Original authorship holding. Anyone can get a copy if this document. As hereby this Organization was Given the holder of Original authorship for all the repositories/Contents.
 
-ORGNAME Has complete original authorship towards every repositories created on the Organizatin/institute.
+EmptineX Has complete original authorship towards every repositories created on the Organizatin/institute.
 Every has permissions to get a copy of every repositories on this Organization but they are not allowed
 to Call all the repositories theirs and take authorship. Doing that they will face Several penalties.
 
 Allowed permissions within 
-UCF 2021 Â© Copyright file
+UCF 2021 © Copyright file
 in Organization:
 
 1. Get a copy of every repositories/files/contents on the organization/institute
@@ -18,7 +18,7 @@ in Organization:
 4. Get a copy of the document.
 
 Disallowed permissions within
-UCF 2021 Â© Copyright file in
+UCF 2021 © Copyright file in
 organisation:
 
 1. Get a full copy of contents in the Organisation/institute to get complete authorship on the contents.
@@ -27,7 +27,7 @@ organisation:
 4. Using the contents in trademarks.
 5. Striking the original author.
 
-<<{Â©}>> Universal Copyright File 2021 <<{Â©}>>
+<<{©}>> Universal Copyright File 2021 <<{©}>>
 
 We have a rule called serving usage, Any organization/institute using a copy of this document
 must free Unlimited serving, making serving usage unlimited, The organisation has free will
@@ -256,12 +256,12 @@ Installation:
 
 
 
->>ã€‹ CONFIGURATION SITE {UCF}ã€Š<<
+>> CONFIGURATION SITE {UCF}<<
 +Serving_usage = "Unlimited"
 +Use-Serving_usage = "True" >If The serving usage is set to false then you cant use serving usage<
-+Organisation_owner = "ORGNAME"
-+Organisation_link = "ORGLINK" >Put the link in here where your organisation is located in.
-+Content_Authorship = "ORGNAME | AUTHORNAME"
++Organisation_owner = "EmptineX"
++Organisation_link = "github.com/EmptineX" >Put the link in here where your organisation is located in.
++Content_Authorship = "EmptineX INC | Cortzalno666"
 
 
 

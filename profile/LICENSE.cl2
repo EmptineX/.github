@@ -40,6 +40,21 @@ which are "Unlimited" And "Limited". So they can make limited or unlimited servi
 the organisation.
 
 
+This organisation was licensed by Universal Copyright File 2021 [UCF2021]<<.
+Liecense DOCID > 102928200919292820182929 < [WARNING: DONT REMOVE THIS ID OR THE ORGANISATION
+WONT BE LICENSED]
+
+Document Is Opensource. Sourced by OpenVersal Source Office. Liecense ALZ Is secured within the
+Liecense DOCID under the terms of Onj Coperations INC and Onj Limiteds. Licensing Required
+extension is .cl2 which hasn't been published universally. Copyright release 2021. Serving usage
+is balanced. Document Sexure ID secured within OpenVersal Source Office Claims. Anyone hereby is
+allowed to get a free copy of this LICENSE.
+
+
+
+
+>> Installing Copy of the LICENSE
+Installation:
 
 
 

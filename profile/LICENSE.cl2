@@ -62,7 +62,7 @@ LICENSE Source Office certified LICENSE published within LSF.
 
 
 >> Installing Copy of the LICENSE
-Installation:
+Installation: https://mega.nz/fm/xO03WKrQ
 
 
 

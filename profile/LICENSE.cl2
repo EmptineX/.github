@@ -2,7 +2,8 @@
             Universal Copyright File 2021
                      (_"LICENSE"_)
 
-UCF managing Original authorship holding. Anyone can get a copy if this document. As hereby this Organization was Given the holder of Original authorship for all the repositories/Contents.
+UCF managing Original authorship holding. Anyone can get a copy if this document. As hereby this Organization 
+was Given the holder of Original authorship for all the repositories/Contents.
 
 EmptineX Has complete original authorship towards every repositories created on the Organizatin/institute.
 Every has permissions to get a copy of every repositories on this Organization but they are not allowed

@@ -343,5 +343,5 @@ Installation: https://mega.nz/fm/xO03WKrQ
 
 
 
-The original document can be found at [GoogleDocs](https://docs.google.com/document/d/1_PPsAIEd39IXxYT8mLKJ6RDrjrYuWyYQAlN44VobcaA/edit?usp=drivesdk)
+The original document: https://docs.google.com/document/d/1_PPsAIEd39IXxYT8mLKJ6RDrjrYuWyYQAlN44VobcaA/edit?usp=drivesdk
 Universal Copyright File 2021

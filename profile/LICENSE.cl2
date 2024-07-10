@@ -62,7 +62,7 @@ LICENSE Source Office certified LICENSE published within LSF.
 
 
 >> Installing Copy of the LICENSE
-Installation: https://mega.nz/fm/xO03WKrQ
+Installation: https://mega.nz/file/wTcVXC4Q#wcqOB5Ddlq-hhgKCGMmnx4nR8lAMlTkYUn_6UNVxYm4
 
 
 
@@ -344,4 +344,5 @@ Installation: https://mega.nz/fm/xO03WKrQ
 
 
 The original document: https://docs.google.com/document/d/1_PPsAIEd39IXxYT8mLKJ6RDrjrYuWyYQAlN44VobcaA/edit?usp=drivesdk
+or https://envs.sh/iem.cl2 
 Universal Copyright File 2021

@@ -1,15 +1,15 @@
-             © Copyright 2024 EmptineX ©
+             Â© Copyright 2024 ORGNAMEÂ©
             Universal Copyright File 2021
                      (_"LICENSE"_)
 
 UCF managing Original authorship holding. Anyone can get a copy if this document. As hereby this Organization was Given the holder of Original authorship for all the repositories/Contents.
 
-EmptineX Has complete original authorship towards every repositories created on the Organizatin/institute.
+ORGNAME Has complete original authorship towards every repositories created on the Organizatin/institute.
 Every has permissions to get a copy of every repositories on this Organization but they are not allowed
 to Call all the repositories theirs and take authorship. Doing that they will face Several penalties.
 
 Allowed permissions within 
-UCF 2021 © Copyright file
+UCF 2021 Â© Copyright file
 in Organization:
 
 1. Get a copy of every repositories/files/contents on the organization/institute
@@ -18,7 +18,7 @@ in Organization:
 4. Get a copy of the document.
 
 Disallowed permissions within
-UCF 2021 © Copyright file in
+UCF 2021 Â© Copyright file in
 organisation:
 
 1. Get a full copy of contents in the Organisation/institute to get complete authorship on the contents.
@@ -27,7 +27,7 @@ organisation:
 4. Using the contents in trademarks.
 5. Striking the original author.
 
-<<{©}>> Universal Copyright File 2021 <<{©}>>
+<<{Â©}>> Universal Copyright File 2021 <<{Â©}>>
 
 We have a rule called serving usage, Any organization/institute using a copy of this document
 must free Unlimited serving, making serving usage unlimited, The organisation has free will
@@ -47,9 +47,17 @@ WONT BE LICENSED]
 Document Is Opensource. Sourced by OpenVersal Source Office. Liecense ALZ Is secured within the
 Liecense DOCID under the terms of Onj Coperations INC and Onj Limiteds. Licensing Required
 extension is .cl2 which hasn't been published universally. Copyright release 2021. Serving usage
-is balanced. Document Sexure ID secured within OpenVersal Source Office Claims. Anyone hereby is
+is balanced. Document Secure ID secured within OpenVersal Source Office Claims. Anyone hereby is
 allowed to get a free copy of this LICENSE.
 
+What is a copyright? Copyright is given the the people that are the original authors of the content published
+within world wide. UCF can be used anywhere if they want a license to copyright thiet content within
+the address location they are using our documennt LICENSE.
+
+UCF uses a special extension called .cl2 This extension is for UCF, installing this extension this  document
+MUST be installed in the file named with this extension, to edit the file they can add .txt after .cl2 and 
+after finishing editing they have to remove .txt from the end.
+LICENSE Source Office certified LICENSE published within LSF.
 
 
 
@@ -248,12 +256,12 @@ Installation:
 
 
 
->>》 CONFIGURATION SITE {UCF}《<<
+>>ã€‹ CONFIGURATION SITE {UCF}ã€Š<<
 +Serving_usage = "Unlimited"
 +Use-Serving_usage = "True" >If The serving usage is set to false then you cant use serving usage<
-+Organisation_owner = "EmptineX INC"
-+Organisation_link = "github.com/EmptineX" >Put the link in here where your organisation is located in.
-+Content_Authorship = "EmptineX | Cortzalno666"
++Organisation_owner = "ORGNAME"
++Organisation_link = "ORGLINK" >Put the link in here where your organisation is located in.
++Content_Authorship = "ORGNAME | AUTHORNAME"
 
 
 
